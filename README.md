@@ -1,1 +1,2 @@
-# virtual-thing-adapter
+# buspro-adapter
+HDL busrpro adapter for webthing gateway
