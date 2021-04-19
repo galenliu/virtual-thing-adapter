@@ -4,7 +4,6 @@ from gateway_addon import Adapter, Database
 
 from pkg.buspro_device import BusproLight
 from pkg.pybuspro.buspro import Buspro
-from pyHS100 import Discover, SmartBulb, SmartPlug, SmartStrip
 
 _TIMEOUT = 3
 

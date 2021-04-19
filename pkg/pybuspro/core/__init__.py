@@ -1,1 +1,1 @@
-﻿from .telegram import Telegram
+﻿

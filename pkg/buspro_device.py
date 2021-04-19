@@ -1,9 +1,6 @@
 from gateway_addon import Device
-from pkg.pybuspro.devices.light import Light
-import threading
-import time
-
 from pkg.buspro_property import BusproProperty
+from pkg.pybuspro.devices.light import Light
 
 _POLL_INTERVAL = 5
 

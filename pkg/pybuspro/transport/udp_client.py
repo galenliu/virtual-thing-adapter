@@ -3,7 +3,6 @@ import socket
 
 
 class UDPClient:
-
     class UDPClientFactory(asyncio.DatagramProtocol):
 
         def __init__(self, buspro, data_received_callback=None):

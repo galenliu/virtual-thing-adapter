@@ -71,4 +71,3 @@ class StringProperty(Property):
     def set_value(self, value):
         if value:
             self.device.set_brightness(value)
-

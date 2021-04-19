@@ -1,5 +1,7 @@
 from .udp_client import UDPClient
 from ..helpers.telegram_helper import TelegramHelper
+
+
 # from ..devices.control import Control
 
 
@@ -26,6 +28,7 @@ class NetworkInterface:
     """
     public methods
     """
+
     def register_callback(self, callback):
         self.callback = callback
 

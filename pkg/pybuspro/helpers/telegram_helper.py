@@ -5,7 +5,6 @@ from crc16 import *
 
 from .enums import DeviceType
 from .generics import Generics
-from ..core.telegram import Telegram
 from ..devices.control import *
 
 
