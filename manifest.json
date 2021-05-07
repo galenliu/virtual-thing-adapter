@@ -1,5 +1,5 @@
 {
-  "author": "WebThingsIO",
+  "author": "galenliu",
   "description": "WebThings Gateway Virtual Things Adapter",
   "gateway_specific_settings": {
     "webthings": {
