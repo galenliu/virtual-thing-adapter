@@ -1,8 +1,0 @@
-# 默认忽略的文件
-/shelf/
-/workspace.xml
-# 数据源本地存储已忽略文件
-/../../../../../../../../../../:\Users\刘桂林\Desktop\web-things\gateway\profile\addons\virtual-thing-adapter\.idea/dataSources/
-/dataSources.local.xml
-# 基于编辑器的 HTTP 客户端请求
-/httpRequests/
